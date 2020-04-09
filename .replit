@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "sudo apt install ffmpeg frei0r-plugins"
